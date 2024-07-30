@@ -1,0 +1,8 @@
+//
+// Created by laurenz on 16.05.23.
+//
+
+#ifndef SIMULATION_NETWORKANALYSER_FWD_H
+#define SIMULATION_NETWORKANALYSER_FWD_H
+class NetworkAnalyser;
+#endif //SIMULATION_NETWORKANALYSER_FWD_H

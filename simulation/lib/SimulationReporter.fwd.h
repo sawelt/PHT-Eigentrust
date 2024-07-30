@@ -1,0 +1,8 @@
+//
+// Created by Laurenz Neumann on 22.06.23.
+//
+
+#ifndef SIMULATION_SIMULATIONREPORTER_FWD_H
+#define SIMULATION_SIMULATIONREPORTER_FWD_H
+class SimulationReporter;
+#endif //SIMULATION_SIMULATIONREPORTER_FWD_H
